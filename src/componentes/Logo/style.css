@@ -1,0 +1,33 @@
+.Logo{
+    display: flex;
+}
+.App {
+    width: 100vw;
+    height: 100vh;
+}
+.logo-img{ 
+    margin: 30px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+    background-color: #fff;
+    display: flex;
+}
+/* BARRA DE NAVEGAÇÃO */
+#barranavegacao{
+    background-color: #FFF5E6;
+    display: flex;
+    padding-left: 200px; 
+    padding-right: 200px;
+    justify-content: space-between;
+}
+/* FIM DA BARRA */
+
+footer{
+    background-color: #FBB03B;
+}
